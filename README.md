@@ -1,6 +1,6 @@
 ## **Affirm: Revolutionizing Credit with AI**
 
-![Affirm Logo](./Affirm_logo.svg)
+![Affirm Logo](./Affirm_logo.png)
 
 ### **Overview and Origin**
 
@@ -73,7 +73,7 @@ Given the complexities of financial planning, AI can offer personalized insights
 
 ---
 
-![Affirm Payment](./1*QoR3rxWIbnf_YC2c3DS2VA.png)
+![Affirm Payment](./Affirm_Icon.jpeg)
 
 ## **Sources**
 - [Affirm Official Website](https://www.affirm.com/)
